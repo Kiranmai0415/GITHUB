@@ -4,7 +4,8 @@ function Basic() {
 
     return (
         <>
-        <input placeholder='Enter any Name'/>
+        <label>Name: </label>
+        <input placeholder='Enter any Name' height="10px" width="100px"/>
 
         </>
     );
